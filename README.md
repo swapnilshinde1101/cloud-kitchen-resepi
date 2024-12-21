@@ -39,7 +39,7 @@ Welcome to **Cloud Kitchen Resepi**, a collection of delightful recipes to explo
 
 Check out the video below for a quick walkthrough of the project:
 
-[![Cloud Kitchen Resepi Demo] [Uploading Screen recording 2024-12-21 10.06.58 PM.webm…]()
+[Uploading Screen recording 2024-12-21 10.06.58 PM.webm…]()
 
 ## Contributing
 
