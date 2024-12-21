@@ -1,0 +1,90 @@
+/* Navbar customization */
+.navbar-brand h5 {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* Card styling */
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    background-color:rgba(0, 0, 0, 0.459);
+}
+.card:hover {
+    transform: scale(1.05);
+}
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.bg-image {
+    background-image: url('Paneer Butter Masala.jpeg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: white;
+}
+
+.bg-image .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+    z-index: 1;
+}
+
+.bg-image .card-body {
+    position: relative;
+    z-index: 2; /* Content on top */
+}
+
+/* Menu header styling */
+.menu-header {
+    font-size: 2rem;
+    color: #0d6efd;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+/* Footer customization */
+footer a.btn {
+    border-radius: 50%;
+    padding: 0.75rem;
+}
+footer a.btn:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.recipe-image {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* head Section  Veg and Non-Veg Recipes */
+@keyframes slideIn {
+    from {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.menu-header {
+    animation: slideIn 1s ease-in-out;
+    position: relative;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+.menu-header:nth-child(1) {
+    animation-delay: 0.5s;
+}
+
+.menu-header:nth-child(2) {
+    animation-delay: 1s;
+}
