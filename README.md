@@ -35,7 +35,13 @@ Welcome to **Cloud Kitchen Resepi**, a collection of delightful recipes to explo
 - Tandoori Chicken
 - Vegetable Biryani
 
+## Video Demo
 
+Check out the video below for a quick walkthrough of the project:
+
+[![Cloud Kitchen Resepi Demo] [Uploading Screen recording 2024-12-21 10.06.58 PM.webm…]()
+
+## Contributing
 
 Feel free to contribute to this repository by adding new recipes, fixing issues, or improving the design. Here's how you can contribute:
 
