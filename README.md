@@ -41,6 +41,9 @@ Check out the video below for a quick walkthrough of the project:
 
 [Screen recording 2024-12-21 10.06.58 PM.webm](https://github.com/user-attachments/assets/2de4fcd4-24a8-4994-b50c-00f446f8913a)
 
+[Screen recording 2024-12-21 10.21.08 PM.webm](https://github.com/user-attachments/assets/56e5a946-fbd3-4f60-a2c0-0c68a1b3a592)
+
+
 ## Contributing
 
 Feel free to contribute to this repository by adding new recipes, fixing issues, or improving the design. Here's how you can contribute:
